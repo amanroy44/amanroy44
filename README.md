@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amanroy44
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning High Level System Design
-- 💞️ I’m looking to collaborate on HLD
+- 👀 I’m interested in DSA & Problem Solving
+-
 - 📫 How to reach me amanroy@gmail.com // linkedin.com/in/aman-roy-0a138b193
 
 <!---
